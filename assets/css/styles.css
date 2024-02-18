@@ -53,7 +53,7 @@
 /*ESTILO GENERALES*/
 
 html{
-    font-size: 10px;
+    font-size: 62.5%; /*Equilavente a 10px */
 }
 
 /* Ejemplo de cómo aplicar el modo oscuro */
